@@ -8,13 +8,16 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+A SINGLE AND GATE
 
 Explain how your project works
 
 ## How to test
+LOOP THROUGH ALL COMBINATIONS OF INPUTS FOR 2 BITS
 
 Explain how to use your project
 
 ## External hardware
+A SINGLE LED
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
